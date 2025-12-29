@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="am">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Ortho Tselot - የዘወትር ጸሎት</title>
+
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#121212">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>የዘወትር ጸሎት</h1>
+        <p class="subtitle">Ortho Tselot</p>
+    </header>
+
+    <main id="prayer-container">
+        <div class="loading">ጸሎቱ በመጫን ላይ ነው... (Loading prayers...)</div>
+    </main>
+
+    <footer>
+        <p>© 2024 Ortho Tselot</p>
+    </footer>
+
+    <script src="app.js"></script>
+    <script>
+        // Register Service Worker for Offline Support
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('sw.js')
+                    .then(reg => console.log('Service Worker registered!'))
+                    .catch(err => console.log('Service Worker registration failed:', err));
+            });
+        }
+    </script>
+</body>
+
+</html>
