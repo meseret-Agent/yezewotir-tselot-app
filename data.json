@@ -1,0 +1,384 @@
+{
+    "appName": "Daily Prayer - Yezewotir Tselot",
+    "language": "Amharic/English Phonetic",
+    "sections": [
+        {
+            "id": 1,
+            "title": "Opening and Renunciation",
+            "lines": [
+                {
+                    "am": "በስመ አብ ወወልድ ወመንፈስ ቅዱስ አሐዱ አምላክ፡፡",
+                    "ph": "Besime Ab wewold wemenfes kidus ahadu amlak"
+                },
+                {
+                    "am": "አንድ አምላክ በሆኑ በአብ በወልድ በመንፈስ ቅዱስ ስም",
+                    "ph": "And amlak behonu beab bewold bemenfes kidus sim"
+                },
+                {
+                    "am": "በሦስትነት ወይም በሥላሴ እያመንኩና እየተማፀንኩ",
+                    "ph": "besostinet weyim besillasie eyamenkuna eyetematseku"
+                },
+                {
+                    "am": "ጠላቴ ሰይጣንን እክድሃለሁ ፣",
+                    "ph": "telatie seytanin ekidhalihu"
+                },
+                {
+                    "am": "በዚች በእናቴ በቤተክርስቲያን ፊት ቆሜ እክድሃለሁ ፣",
+                    "ph": "bezich beenatie bebietekristiyan feet qome ekidhalihu"
+                },
+                {
+                    "am": "ለዚህም ምስክሬ ማርያም ናት፡፡",
+                    "ph": "lezeehim miskirie maryam nat"
+                },
+                {
+                    "am": "በዚህም ዓለም በወዲያኛውም ዓለም እሷን አምባ መጠጊያ አድርጌ እክድሃለሁ፡፡",
+                    "ph": "bezeehim alem bewodiyanyawim alem iswan amba metegiya adrige ekidhalihu"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Prayer of Praise",
+            "lines": [
+                {
+                    "am": "አቤቱ እናመሠግንሃለን፣ አቤቱ እናከብርሃለን፣ አቤቱ እንገዛልሃለን፣",
+                    "ph": "Abietu inameseginhalen abietu inakebrihalen abietu ingezalhalen"
+                },
+                {
+                    "am": "አቤቱ ቅዱስ ስምህን እናመሰግናለን፣",
+                    "ph": "abietu kidus simihin inameseginalen"
+                },
+                {
+                    "am": "ጉልበት ሁሉ የሚሰግድልህ አቤቱ እንሰግድልሃለን፣",
+                    "ph": "gulbet hulu yemeesegidilih abietu inesegidilhalen"
+                },
+                {
+                    "am": "አንደበትም ሁሉ ለአንተ ይገዛል፣",
+                    "ph": "andebetim hulu leante yigezal"
+                },
+                {
+                    "am": "የአምላኮች አምላክ፣ የጌቶች ጌታ የንጉሦችም ንጉሥ ነህ፡፡",
+                    "ph": "yeamlakoch amlak yegietoch gieta yenigusochim nigus neh"
+                },
+                {
+                    "am": "የሥጋም የነፍስም ፈጣሪ አንተ ነህ::",
+                    "ph": "yesigam yenefsim fetaree ante neh"
+                },
+                {
+                    "am": "በምትጸልዩበት ጊዜ እንዲህ ብላችሁ ጸልዩ ብሎ ቅዱስ ልጅህ እንዳስተማረን እንጠራሃለን::",
+                    "ph": "bemit-tseleyubet giezie indeeh bilachu tseleyu bilo kidus lijih indastemaren intierahalen"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "The Lord's Prayer",
+            "lines": [
+                {
+                    "am": "አባታችን ሆይ በሰማይ የምትኖር ስምህ ይቀደስ መንግሥትህ ትምጣ",
+                    "ph": "Abatachin hoy besemay yemitnor simih yiqedes mengistih timta"
+                },
+                {
+                    "am": "ፈቃድህ በሰማይ እንደሆነች እንዲሁም በምድር ትሁን::",
+                    "ph": "feqadih besemay indehonech indeehum bemidir tihun"
+                },
+                {
+                    "am": "የዕለት እንጀራችንን ስጠን ዛሬ በደላችንንም ይቅር በለን,",
+                    "ph": "ye-elet injerachinin siten zarie bedelachinninim yiqir belen"
+                },
+                {
+                    "am": "እኛ የበደሉንን ይቅር እንደምንል፡፡",
+                    "ph": "inya yebedelunin yiqir indeminnil"
+                },
+                {
+                    "am": "አቤቱ ወደ ፈተና አታግባን ከክፉ ሁሉ አድነን እንጂ",
+                    "ph": "abietu wede fetena atagban kekifu hulu adnen injee"
+                },
+                {
+                    "am": "መንግሥት ያንተ ናትና ኃይል ምስጋና ለዘለዓለሙ አሜን፡፡",
+                    "ph": "mengist yante natna hayl misgana lezelealemu amien"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Salutation to St. Mary",
+            "lines": [
+                {
+                    "am": "እመቤታችን ድንግል ማርያም ሆይ በመልአኩ በቅዱስ ገብርኤል ሰላምታ ሰላም እልሻለሁ",
+                    "ph": "Imebiétachin dingil maryam hoy bemelaku bekidus gebriel selamta selam ilishalehu"
+                },
+                {
+                    "am": "በሃሳብሽ ድንግል ነሽ በሥጋሽም ድንግል ነሽ::",
+                    "ph": "behasabish dingil nesh besigashim dingil nesh"
+                },
+                {
+                    "am": "የአሸናፊ የእግዚአብሔር እናት ሆይ ሰላምታ ላንቺ ይገባል፡፡",
+                    "ph": "yeashinafee ye-egzeeabher innat hoy selamta lanchee yigebal"
+                },
+                {
+                    "am": "ከሴቶች ሁሉ ተለይተሽ አንቺ የተባረክሽ ነሽ",
+                    "ph": "kesiétoch hulu teleyitesh anchee yetebareksh nesh"
+                },
+                {
+                    "am": "የማኀፀንሽም ፍሬ የተባረከ ነው፡፡",
+                    "ph": "yemahtsenishim frie yetebareke new"
+                },
+                {
+                    "am": "ጸጋን የተመላሽ ሆይ ደስ ይበልሽ እግዚአብሔር ከአንቺ ጋር ነውና",
+                    "ph": "tsegan yetemelash hoy des yibelish egzeeabher keanchee gar newna"
+                },
+                {
+                    "am": "ከተወደደው ልጅሽ ከጌታችን ከመድኃኒታችን ከኢየሱስ ክርስቶስ ዘንድ ይቅርታን ለምኝልን",
+                    "ph": "ketewededew lijish kegietachin kemedhanitachin ke-iyesus kristos zend yiqirtan lemiyinilin"
+                },
+                {
+                    "am": "ኃጢአታችንን ያስተሠርይልን ዘንድ ለዘለዓለሙ አሜን፡፡",
+                    "ph": "hateeatachinin yasteser-yilin zend lezelealemu amien"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "The Creed",
+            "lines": [
+                {
+                    "am": "ሁሉን በፈጠረ አንድ አምላክ በሚሆን በእግዚአብሔር አብ እናምናለን፡፡",
+                    "ph": "Hulun befietere and amlak bemeehon be-egzeeabher Ab inamnalen"
+                },
+                {
+                    "am": "ሰማይና ምድርን የሚታየውንና የማይታየውን የፈጠረ",
+                    "ph": "semayna midrin yemeetayewinna yemaytayewin yefietere"
+                },
+                {
+                    "am": "ዓለም ሳይፈጠር ከእርሱ ጋር በነበረ አንድ የአብ ልጅ በሚሆን",
+                    "ph": "alem sayfietere keer-su gar benebere and yeab lij bemeehon"
+                },
+                {
+                    "am": "በአንድ ጌታ በኢየሱስ ክርስቶስ እናምናለን፣",
+                    "ph": "be-and gieta be-iyesus kristos inamnalen"
+                },
+                {
+                    "am": "ከብርሃን የተገኘ ብርሃን ከእውነተኛ አምላክ የተገኘ አምላክ",
+                    "ph": "kebirhan yetegénye birhan kewneténya amlak yetegénye amlak"
+                },
+                {
+                    "am": "የተወለደ እንጂ ያልተፈጠረ በባሕርይው ከአብ ጋር የሚስተካከል",
+                    "ph": "yetewelede injee yalfietere bebahriy-u keab gar yemeesitekakel"
+                },
+                {
+                    "am": "ሁሉ በእርሱ የሆነ በሰማይ ካለው በምድርም ካለው ያለእርሱ ምንም ምን የሆነ የለም",
+                    "ph": "hulu beer-su hone besemay kalew bemidrim kalew yale-er-su minim min hone yelem"
+                },
+                {
+                    "am": "ስለ እኛ ስለ ሰዎች እኛን ለማዳን ከሰማይ ወረደ",
+                    "ph": "sile inya sile sewoch inyan lemadan kesemay worede"
+                },
+                {
+                    "am": "በመንፈስ ቅዱስ ግብር ከቅድስት ድንግል ማርያም ፍጹም ሰውን ሆነ",
+                    "ph": "bemenfes kidus gibir keqidist dingil maryam fitsum sewin hone"
+                },
+                {
+                    "am": "ደግሞም ስለ እኛ ተሰቀለ:: በጲላጦስ ዘመን እርሱ መከራን ተቀበለ",
+                    "ph": "degmom sile inya teseqele bepeelatos zemen er-su mekeran teqebele"
+                },
+                {
+                    "am": "ሞተ ተቀበረ በሦስተኛውም ቀን ከሙታን ተለይቶ ተነሣ",
+                    "ph": "mote teqebele besostényawim qen kemutan teleyito tenesa"
+                },
+                {
+                    "am": "በቅዱሳት መጻሕፍት እንደተጻፈ በክብር በምስጋና ወደ ሰማይ ዐረገ",
+                    "ph": "beqidusat metsahaft indetetsafe beki-bir bemisgana wede semay arege"
+                },
+                {
+                    "am": "በአባቱም ቀኝ ተቀመጠ፣ ዳግመኛም በሕያዋንና በሙታን ለመፍረድ በምስጋና ይመጣል",
+                    "ph": "beabatum qény teqemete dagményam behiyawaninna bemutan lemefred bemisgana yimetal"
+                },
+                {
+                    "am": "ለመንግሥቱም ማኅለቅት የለውም፡፡",
+                    "ph": "lemengistum mahleqt yelewim"
+                },
+                {
+                    "am": "በመንፈስ ቅዱስም እናምናለን እርሱም ጌታ ሕይወትን የሚሰጥ ከአብ የሠረፀ",
+                    "ph": "bemenfes kidusim inamnalen er-sum gieta hiyewetin yemeeset keab yeseretse"
+                },
+                {
+                    "am": "ከአብና ከወልድ ጋር በአንድነት እንሰግድለታለን እናመሰግነዋለን",
+                    "ph": "keabinna kewold gar beandinet inesegidiletalen inameseginewalen"
+                },
+                {
+                    "am": "እርሱም በነቢያት አድሮ የተናገረው ነው::",
+                    "ph": "er-sum benebeeyat adro yetenagerew new"
+                },
+                {
+                    "am": "ከሁሉም በላይ በምትሆን ሐዋርያት በሠሯት በአንዲት ክብርት ቤተክርስቲያን እናምናለን፡፡",
+                    "ph": "kehulun belay bemeethon hawaryat beseruat beandeet kibrit bietekristiyan inamnalen"
+                },
+                {
+                    "am": "ኃጢአት ለሚሰረይባት በአንዲት ጥምቀት እናምናለን:: የሙታንንም መነሣት ተስፋ እናደርጋለን",
+                    "ph": "hateeat lemeesereyibat beandeet timqet inamnalen yemutaninim menesat tesfa inadergalen"
+                },
+                {
+                    "am": "የሚመጣውንም ሕይወት ለዘለዓለሙ አሜን፡፡",
+                    "ph": "yemeematawinim hiyewet lezelealemu amien"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Holy, Holy, Holy and Veneration",
+            "lines": [
+                {
+                    "am": "አሸናፊ እግዚአብሔር ቅዱስ ቅዱስ ቅዱስ ተብለህ ትመስገናለህ፡፡",
+                    "ph": "Ashinafee egzeeabher kidus kidus kidus tebileh timesegenaleh"
+                },
+                {
+                    "am": "ምስጋናህም በሰማይና በምድር ነው፡፡",
+                    "ph": "misganahim besemayna bemidir new"
+                },
+                {
+                    "am": "ክርስቶስ ሆይ ላንተ እንሰግድልሃለን ከሰማያዊው ከቸር አባትህ ጋር",
+                    "ph": "kristos hoy lante inesegidilhalen kesemayawiw kecher abatih gar"
+                },
+                {
+                    "am": "አዳኝ ከሆነው ከመንፈስ ቅዱስም ጋር እንሰግድልሃለን",
+                    "ph": "adany kehonew kemenfes kidusim gar inesegidilhalen"
+                },
+                {
+                    "am": "ወደዚህ ዓለም መጥተህ አድነኸናልና፡፡",
+                    "ph": "wedeezee alem metteh adinehenalna"
+                },
+                {
+                    "am": "ለአብ ለወልድ ለመንፈስ ቅዱስ አንዲት ስግደት እሰግዳለሁ (፫ ጊዜ በል)፡፡",
+                    "ph": "leab lewold lemenfes kidus andeet sigdet esegidalehu (sost giezie bel)"
+                },
+                {
+                    "am": "አንድ ሲሆኑ ሦስት ሦስት ሲሆኑ አንድ በአካል ሦስት ሲሆኑ በመለኮት አንድ ለሚሆኑ እሰግዳለሁ፡፡",
+                    "ph": "and seehonu sost sost seehonu and beakale sost seehonu bemelekot and lemeehonu esegidalehu"
+                },
+                {
+                    "am": "አምላክን ለወለደች ለእመቤታችን ለድንግል ማርያም እሰግዳለሁ፡፡",
+                    "ph": "amlakin leweliledech le-imebiétachin ledingil maryam esegidalehu"
+                },
+                {
+                    "am": "ዓለምን ሁሉ ለማዳን ሲል ኢየሱስ ክርስቶስ ለተሰቀለበት መስቀልም እሰግዳለሁ፡፡",
+                    "ph": "alemin hulu lemadan seel iyesus kristos leteseqelebet mesqelim esegidalehu"
+                },
+                {
+                    "am": "መስቀል ኃይላችን ነው፣ ኃይላችን መስቀል ነው፡፡",
+                    "ph": "mesqel haylachin new haylachin mesqel new"
+                },
+                {
+                    "am": "የሚያፀናን መስቀል ነው፣ መስቀል ቤዛችን ነው፣ መስቀል የነፍሳችን መዳኛ ነው",
+                    "ph": "yemeeatsenan mesqel new mesqel biezachin new mesqel yenefsachin medanya new"
+                },
+                {
+                    "am": "አይሁድ ይክዱታል እኛ ግን እናምነዋለን ያመነው እኛም በመስቀሉ እንድናለን፡፡",
+                    "ph": "ayihud yikidutal inya gin inamnewalen yamenew inyam bemesqelu indinalen"
+                },
+                {
+                    "am": "ለአብ ምስጋና ይገባል፣ ለወልድም ምስጋና ይገባል፣ ለመንፈስ ቅዱስም ምስጋና ይገባል (፫ ጊዜ በል)፡፡",
+                    "ph": "leab misgana yigebal lewoldim misgana yigebal lemenfes kidusim misgana yigebal (sost giezie bel)"
+                },
+                {
+                    "am": "አምላክን ለወለደች ለእመቤታችን ለድንግል ማርያም ምስጋና ይገባል፡፡",
+                    "ph": "amlakin leweliledech le-imebiétachin ledingil maryam misgana yigebal"
+                },
+                {
+                    "am": "ለኢየሱስ ክርስቶስ መስቀልም ምስጋና ይገባል፡፡",
+                    "ph": "le-iyesus kristos mesqelim misgana yigebal"
+                },
+                {
+                    "am": "ክርስቶስ በቸርነቱ ያስበን ዘንድ ፣ ዳግመኛም በመጣ ጊዜ እንዳያሳፍረን ፣",
+                    "ph": "kristos becherinetu yasiben zend dagmenyam bemeta giezie indayasafiren"
+                },
+                {
+                    "am": "ስሙን ለማመስገን ያነቃን ዘንድ ፣ እርሱም በማምለክ ያጸናን ዘንድ ፣",
+                    "ph": "simun lemamesegin yanekan zend ersum be-amlikotu yatsenan zend"
+                },
+                {
+                    "am": "እመቤታችን ጸሎታችንን አሳርጊልን ፣ ኃጢአታችንንም አስተሥርዩልን ፣",
+                    "ph": "imebiétachin tselotachinin asargilin hateeatachinninim astesiryulin"
+                },
+                {
+                    "am": "በጌታችን መንበር ፊት ጸሎታችንን አሳርኪልን ፣",
+                    "ph": "begietachin menber feet tselotachinin asarkilin"
+                },
+                {
+                    "am": "ይህንን ኅብስት ላበላን ፣ ይህንንም ጽዋ ላጠጣን፣",
+                    "ph": "yihinnin hibist labelan yihinninnim tsiwa latetan"
+                },
+                {
+                    "am": "ምግባችንንና ልብሳችንን ላዘጋጀልን ፣ ኃጢአታችንንም ሁሉ ለታገሠልን፣",
+                    "ph": "migbachinninna libsachinnin lazegajelin hateeatachinninnim hulu letageselin"
+                },
+                {
+                    "am": "ክቡር ደሙን ቅዱስ ሥጋውን ለሰጠን ፣ እስከዚችም ሰዓት ላደረሰን፡፡",
+                    "ph": "kibur demun kidus sigawin leseten iskezeechim se-at laderesen"
+                },
+                {
+                    "am": "ለእሱ ለልዑል እግዚአብሔር ፍፁም ምስጋና ይገባል ፡፡",
+                    "ph": "le-issu le-liul egzeeabher fitsum misgana yigebal"
+                },
+                {
+                    "am": "ለወለደችው ለድንግል ማርያም ምስጋና ይገባል ::",
+                    "ph": "leweliledech-u ledingil maryam misgana yigebal"
+                },
+                {
+                    "am": "ለኢየሱስ ክርሰቶስም መስቀል ምስጋና ይገባል፡፡",
+                    "ph": "le-iyesus kristosim mesqel misgana yigebal"
+                },
+                {
+                    "am": "የእግዚአብሔር ስሙ ፈጽሞ ይመሰገን ዘንድ ዘወትር በየጊዜያቱና በየሰዓቱ ምስጋና ይገባል፡፡",
+                    "ph": "ye-egzeeabher simu fetsimo yimesegen zend zewotir be-yegieziyatu-nna be-yese-atu misgana yigebal"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Magnificat (Prayer of Mary)",
+            "lines": [
+                {
+                    "am": "ማርያም አለች ነፍሴ እግዚአብሔርን ታላቅ ታደርገዋለች መንፈሴም በእግዚአብሔር ደስ ይላታል፡፡",
+                    "ph": "Maryam alech nefsie egzeeabher-in ta-laq tadergewalech menfesie-m be-egzeeabher des yilatal"
+                },
+                {
+                    "am": "የባሪያይቱን መዋረድ አይቷልና፡፡",
+                    "ph": "yebareeyaytun mewared aytwal-na"
+                },
+                {
+                    "am": "እነሆ ከዛሬ ጀምሮ ትውልድ ሁሉ ያመሰግኑኛል::",
+                    "ph": "inneho kezarie jemiro tiwilid hulu yameseginunyal"
+                },
+                {
+                    "am": "እርሱ ብርቱ የሚሆን ታላቅ ሥራን ለእኔ አድርጓልና ስሙም ቅዱስ ነው::",
+                    "ph": "er-su birtu yemeehon ta-laq seeran lenie adrigwalna simum kidus new"
+                },
+                {
+                    "am": "ለሚፈሩትም ምሕረቱ ለልጅ ልጅ ነው ኃይልን በክንዱ አደረገ::",
+                    "ph": "lemeeferutim mihretu lelij lij new haylin bekindu aderege"
+                },
+                {
+                    "am": "በልባቸው አሳብ የሚኮሩ ትዕቢተኞችን በታተናቸው",
+                    "ph": "beli-bachow asab yemeekoru tee-bitényochin betatenachow"
+                },
+                {
+                    "am": "ብርቱዎችንም ከዙፋናቸው አዋረዳቸው የተዋረዱትንም ከፍ ከፍ አደረጋቸው",
+                    "ph": "birtuwochin-im ke-zufanachow awaredachow yetewaredutin-im kef kef aderegachow"
+                },
+                {
+                    "am": "የተራቡትንም በበረከቱ አጠገባቸው ባለጠጎችንም ባዶ እጃቸውን ሰደዳቸው",
+                    "ph": "yeterabutin-im be-bereketu ategebachow baletsigochinim bado ejachowin sededachow"
+                },
+                {
+                    "am": "ምሕረቱን እንዲያስብ እስራኤል ባሪያውን ተቀበለ፡፡",
+                    "ph": "mihretun indeeyasib isra-el bareeyawin teqebele"
+                },
+                {
+                    "am": "ለአባቶቻችን ለአብርሃምና ለዘሩም እስከዘለዓለመ ድረስ እንደተናገረው፡፡",
+                    "ph": "leabatachachin le-abrahamna lezerum iskezelealeme dires indetenagerew"
+                }
+            ]
+        }
+    ]
+}
