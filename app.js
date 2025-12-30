@@ -4,6 +4,9 @@ async function loadPrayers() {
     const data = await response.json();
     const container = document.getElementById('prayer-container');
 
+    // Clear loading message
+    container.innerHTML = '';
+
     data.sections.forEach(section => {
         const sectionDiv = document.createElement('div');
         sectionDiv.innerHTML = `<h2>${section.title}</h2>`;
