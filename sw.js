@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ortho-tselot-v11';
+const CACHE_NAME = 'ortho-tselot-v12';
 const assets = ['./', './index.html', './style.css', './app.js', './data.json', './background.jpg', './Mary and Jesus.jpeg'];
 
 self.addEventListener('install', (event) => {
