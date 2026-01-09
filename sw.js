@@ -1,5 +1,5 @@
-const CACHE_NAME = 'ortho-tselot-v3';
-const assets = ['./', './index.html', './style.css', './app.js', './data.json', './background.jpg'];
+const CACHE_NAME = 'ortho-tselot-v11';
+const assets = ['./', './index.html', './style.css', './app.js', './data.json', './background.jpg', './Mary and Jesus.jpeg'];
 
 self.addEventListener('install', (event) => {
     event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(assets)));

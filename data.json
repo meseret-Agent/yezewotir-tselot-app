@@ -4,7 +4,7 @@
     "sections": [
         {
             "id": 1,
-            "title": "Opening and Renunciation",
+            "title": "የመክፈቻ ፀሎት - Opening",
             "lines": [
                 {
                     "am": "በስመ አብ ወወልድ ወመንፈስ ቅዱስ አሐዱ አምላክ፡፡",
@@ -38,7 +38,7 @@
         },
         {
             "id": 2,
-            "title": "Prayer of Praise",
+            "title": "አቤቱ እናመሠግንሃለን - Prayer of Praise",
             "lines": [
                 {
                     "am": "አቤቱ እናመሠግንሃለን፣ አቤቱ እናከብርሃለን፣ አቤቱ እንገዛልሃለን፣",
@@ -72,7 +72,7 @@
         },
         {
             "id": 3,
-            "title": "The Lord's Prayer",
+            "title": "አባታችን ሆይ - The Lord's Prayer",
             "lines": [
                 {
                     "am": "አባታችን ሆይ በሰማይ የምትኖር ስምህ ይቀደስ መንግሥትህ ትምጣ",
@@ -102,7 +102,7 @@
         },
         {
             "id": 4,
-            "title": "Salutation to St. Mary",
+            "title": "እመቤታችን ድንግል ማርያም -  Salutation to St. Mary",
             "lines": [
                 {
                     "am": "እመቤታችን ድንግል ማርያም ሆይ በመልአኩ በቅዱስ ገብርኤል ሰላምታ ሰላም እልሻለሁ",
@@ -113,7 +113,7 @@
                     "ph": "behasabish dingil nesh besigashim dingil nesh"
                 },
                 {
-                    "am": "የአሸናፊ የእግዚአብሔር እናት ሆይ ሰላምታ ላንቺ ይገባል፡፡",
+                    "am": "የአሸናፊ የ እግዚአብሔር እናት ሆይ ሰላምታ ላንቺ ይገባል፡፡",
                     "ph": "yeashinafee ye-egzeeabher innat hoy selamta lanchee yigebal"
                 },
                 {
@@ -140,7 +140,7 @@
         },
         {
             "id": 5,
-            "title": "The Creed",
+            "title": "የሐይማኖት ፀሎት - The Creed",
             "lines": [
                 {
                     "am": "ሁሉን በፈጠረ አንድ አምላክ በሚሆን በእግዚአብሔር አብ እናምናለን፡፡",
@@ -226,10 +226,10 @@
         },
         {
             "id": 6,
-            "title": "Holy, Holy, Holy and Veneration",
+            "title": " ቅዱስ ቅዱስ ቅዱስ - Holy, Holy, Holy ",
             "lines": [
                 {
-                    "am": "አሸናፊ እግዚአብሔር ቅዱስ ቅዱስ ቅዱስ ተብለህ ትመስገናለህ፡፡",
+                    "am": "አሸናፊ እግዚአብሔር ሆይ ቅዱስ ቅዱስ ቅዱስ ተብለህ ትመስገናለህ፡፡",
                     "ph": "Ashinafee egzeeabher kidus kidus kidus tebileh timesegenaleh"
                 },
                 {
@@ -336,7 +336,7 @@
         },
         {
             "id": 7,
-            "title": "Magnificat (Prayer of Mary)",
+            "title": "የእመቤታችን የማርያም ፀሎት - Prayer of Mary",
             "lines": [
                 {
                     "am": "ማርያም አለች ነፍሴ እግዚአብሔርን ታላቅ ታደርገዋለች መንፈሴም በእግዚአብሔር ደስ ይላታል፡፡",
